@@ -1,4 +1,4 @@
-if(document.referrer != "https://xobyte.org/xp/login/"){
+if(document.referrer != "https://xobyte.org/login/"){
   window.open("bootloader", "_self");
 }
 window.onload = function() {
